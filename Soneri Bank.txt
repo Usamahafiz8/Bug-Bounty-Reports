@@ -1,0 +1,29 @@
+msalman.ali@soneribank.com
+Chief Information Officer, IT
+Soneri Bank Ltd.
+
+============================================================================================================
+Subject : Report of potential security vulnerability in Soneri Bank mobile app
+============================================================================================================
+
+
+Dear  Soneri Bank Security Team,
+
+I am writing to report a potential security vulnerability in your mobile banking application that I have identified. I have tested your mobile app and discovered that during the transfer process, the app is slow to update or crashes, potentially causing a delay or uncertainty in the transaction's completion.
+
+Additionally, while the app sends SMS and email notifications upon successful completion of a transaction, I have observed that these notifications can be blocked, preventing the user from being notified of unauthorized transactions. If an attacker gains access to a user's account, they could exploit these weaknesses to transfer funds or cause other types of harm to the accounts or the bank.
+
+I was able to reproduce this vulnerability on both Android and iOS devices, with varying degrees of severity. While the issue is more pronounced on older devices or slower network connections, it can still occur on newer devices or faster connections. I have documented the steps to reproduce this issue and can provide additional technical details upon request.
+
+As a responsible security researcher, I am reporting this vulnerability to you in the hope that you will take prompt action to address the issue. I believe that fixing this vulnerability will not only benefit your customers but also enhance the overall security of your application and protect your reputation.
+
+I would like to request that Soneri Bank consider providing me with a bug bounty reward for reporting this issue. While I understand that you may not have an established program guideline in place, I believe that it is important to recognize and encourage responsible security research.
+
+Furthermore, I would appreciate it if you could acknowledge my contribution by tagging me on social media. This would not only show your appreciation but also demonstrate your commitment to the security of your application and your customers.
+
+Thank you for your consideration. Please let me know if you require any additional information or assistance in resolving this issue. I look forward to hearing back from you soon.
+
+Sincerely,
+
+Muhammad Osama Anwar
+https://www.linkedin.com/in/muhammadosamaanwar/
